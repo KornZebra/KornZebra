@@ -1,4 +1,4 @@
-<img src="[burpsuite](https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white)" />
+<img src="https://img.shields.io/badge/burpsuite-FF6633?style=for-the-badge&logo=burpsuite&logoColor=white" />
 
 <!--
 **KornZebra/KornZebra** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
